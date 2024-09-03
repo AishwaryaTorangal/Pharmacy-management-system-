@@ -1,13 +1,11 @@
 <h1>Pharmacy Management System</h1>
-The Pharmacy Management System is a software application developed in R, designed to efficiently manage and track various aspects of a pharmacy's operations. This system enables users to handle inventory, manage drug sales, monitor expiry dates, add and manage workers, and track electricity usage. It is a comprehensive solution that aids in maintaining a well-organized pharmacy environment.
+<h4>The Pharmacy Management System is a software application developed in R, designed to efficiently manage and track various aspects of a pharmacy's operations. This system enables users to handle inventory, manage drug sales, monitor expiry dates, add and manage workers, and track electricity usage. It is a comprehensive solution that aids in maintaining a well-organized pharmacy environment.</h4>
 
 Features
-Add Drug (pms):
-
+<h3>Add Drug (pms):</h3>
 Adds new drugs to the inventory.
 Includes validation for manufacturing dates and negative values.
-Display Inventory (disp):
-
+<h3>Display Inventory (disp):</h3>
 Shows current inventory data.
 Bar Graph of Quantity Available (dispg):
 
